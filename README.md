@@ -1,6 +1,6 @@
-# setonhill_shuttle_tracker
+# Seton Hill University Shuttle Tracker
 
-A new Flutter project.
+A cross-platform flutter application created for tracking the location of all Seton Hill University Shuttles.
 
 ## Getting Started
 
