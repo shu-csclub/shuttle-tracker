@@ -3,6 +3,8 @@
         android:label="setonhill_shuttle_tracker"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyBVMyReppXXug3N-lRY7g65LFgKvchx26c"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
